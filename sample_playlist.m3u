@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Quran.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="قنوات إسلامية",قناة القرآن الكريم بث مباشر (مكة المكرمة)
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1 tvg-id="Sunnah.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/60/c8/fullhd_43ca4628efbc26055d7102e3b2e7a0a65384bcbe.png" group-title="قنوات إسلامية",قناة السنة النبوية بث مباشر (المدينة المنورة)
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.sa" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="قنوات إخبارية",قناة العربية (Al Arabiya HD)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="قنوات إخبارية",قناة الحدث (Al Hadath HD)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="قنوات إخبارية",قناة الإخبارية السعودية (Al Ekhbariya)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-id="France24Ar.fr" tvg-logo="https://i.imgur.com/vHqB51Q.png" group-title="قنوات إخبارية",فرانس 24 عربي (France 24 Arabic)
+https://f24hls-i.akamaihd.net/hls/live/221193/F24_AR_HI_HLS/master_1500.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/2sR9c0c.png" group-title="قنوات إخبارية",دويتشه فيله عربي (DW Arabic HD)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/z4LwXgJ.png" group-title="قنوات إخبارية",سكاي نيوز عربية (Sky News Arabia)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="Aflam.sa" tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="أفلام وترفيه",قناة روتانا سينما وأفلام (Aflam HD)
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-id="NasaTV.us" tvg-logo="https://i.imgur.com/u5hGf9s.png" group-title="وثائقي وعلوم",ناسا الفضائية (NASA TV HD)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/YwN9V8b.png" group-title="رياضة ومغامرات",ريد بول تي في (Red Bull TV Sports)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8

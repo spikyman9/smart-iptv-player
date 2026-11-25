@@ -1,0 +1,32 @@
+# User Data, Credentials & Local Caches (NEVER commit)
+userdata/
+portable.txt
+portable.flag
+servers.json
+settings.json
+favorites.json
+recent_playlists.json
+cache_*.json
+
+# Recorded Streams & Media
+recordings/
+*.mp4
+*.ts
+*.mkv
+*.part
+
+# Build Artifacts & Bundled Third-Party Binaries
+build/
+dist/
+vlc/
+ffmpeg.exe
+
+# Python & Logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+err*.txt
+out*.txt
+.venv/
+venv/
